@@ -1,0 +1,39 @@
+{
+  "name": "supr-comlink",
+  "version": "1.0.0",
+  "description": "A super charged comlink with Observables native support",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "comlink": "^4.2.0",
+    "rxjs": "^6.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouravgunjan/supr-comlink.git"
+  },
+  "keywords": [
+    "Observable",
+    "Observables",
+    "rxjs",
+    "comlink",
+    "cross-frame",
+    "cross",
+    "frame",
+    "service",
+    "workers",
+    "angular",
+    "service",
+    "multithreading",
+    "js"
+  ],
+  "author": "Gourav Gunjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gouravgunjan/supr-comlink/issues"
+  },
+  "homepage": "https://github.com/gouravgunjan/supr-comlink#readme"
+}
