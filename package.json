@@ -1,6 +1,6 @@
 {
   "name": "supr-comlink",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A super charged comlink with Observables native support",
   "main": "index.js",
   "dependencies": {},
